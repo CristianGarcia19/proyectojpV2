@@ -18,7 +18,7 @@
         <div class="card-body">
           <p class="login-box-msg">Crear una cuenta</p>
 
-          <form method="POST" id="usuario_form">
+          <form method="POST" id="registro_usuario">
                 <input type="hidden" name="usu_id" id="usu_id">
                 <div class="row mb-3 mx-2 my-1">
                     <label for="nombre" class="col-sm-3 col-form-label">Nombre:</label> 
@@ -93,7 +93,7 @@
    <?php
     include("modulos/js.php");
    ?>
-   <script type="text/javascript" src="js/usuarios.js"></script>
+   <script type="text/javascript" src="js/registro.js"></script>
   </body>
 </html>
 <?php

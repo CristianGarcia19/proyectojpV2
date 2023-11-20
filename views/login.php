@@ -24,8 +24,9 @@
   <link rel="stylesheet" href="../html/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
   <!-- Theme style -->
   <link rel="stylesheet" href="../html/dist/css/adminlte.min.css">
+  <link rel="stylesheet" href="../html/dist/css/style.css">
   </head>
-  <body class="hold-transition login-page">
+  <body class="hold-transition login-page fondo-login">
       <div class="login-box">
       <!-- /.login-logo -->
       <div class="card card-outline card-primary">
@@ -88,18 +89,19 @@
             
             <div class="row">
               <!-- /.col -->
-              <div class="col-4 mx-auto">
+              <div class="col-12 mx-auto">
                 <input type="hidden" name="enviar" id="enviar" class="form-control" value="si">
                 <button type="submit" class="btn btn-primary btn-block">
                   Iniciar sesion
                 </button>
-              </div>            
-              <div class="col-4 mx-auto">
-                <a href="../views/registro.php" class="btn btn-success">Registrate aqui</a>
               </div>
-              <div class="col-4 mx-auto">
+              <div class="mx-auto mt-2">
+                <a href="../views/registro.php" class="btn btn-success">Registrate aqui</a>              
                 <a href="../index.php" class="btn btn-warning">Volver a inicio</a>
-              </div>
+              </div>        
+              
+                
+              
               <!-- /.col -->
             </div>         
             
