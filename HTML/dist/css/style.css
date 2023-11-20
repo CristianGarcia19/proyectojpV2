@@ -1,0 +1,34 @@
+
+.logo{
+    width: 40px;
+    border-radius: 50px;
+}
+
+body{
+    
+}
+.banner{
+    background-image: url(../img/banner.png);
+    background-position: center;   
+    background-size: cover; 
+    background-repeat: no-repeat;
+    height: 400px;
+    
+}
+.texto{
+    display: flex;
+    text-align: center;
+}
+
+.facebook, .twitter, .instagram{
+    width: 30px;
+}
+
+.footer{
+    background-color: #212529;
+
+}
+
+.navbar {
+    background-color: #212529; 
+}

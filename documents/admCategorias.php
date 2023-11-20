@@ -1,5 +1,5 @@
 <?php 
-  define( "BASE_URL", "/ProyectoJDVA/documents/");
+  define( "BASE_URL", "/proyectojpV2/documents/");
   /* Llamamos al archivo de conexion.php */
 require_once("../config/conexion.php");
 if (isset($_SESSION["usu_id"])){
