@@ -21,7 +21,7 @@
       </h5>
       <h2 class="mb-3">CLOSED QUESTIONS</h2>
       <img
-        src="../HTML/dist/img/closed.jpg"
+        src="../html/dist/img/closed.jpg"
         alt="closed questions"
         class="rounded-3 img-fluid mb-3"
         style="width: 600px"
@@ -43,7 +43,7 @@
       <div class="col-md-6 mb-4 d-flex justify-content-center align-items-center"                                                                                                        >
         <div class="card" style="width: 21rem;">
           <img
-            src="../HTML/dist/img/chicaalta.png"
+            src="../html/dist/img/chicaalta.png"
             class="card-img-top img-fluid"
             alt="chicaalta"
           />
@@ -56,7 +56,7 @@
       <div class="col-md-6 mb-4 d-flex justify-content-center align-items-center">
             <div class="card" style="width: 21rem;">
             <img
-                src="../HTML/dist/img/mascota.png"
+                src="../html/dist/img/mascota.png"
                 class="card-img-top img-fluid"
                 alt="mascota"
             />
@@ -91,7 +91,7 @@
       <div class="col-md-6 mb-4 d-flex justify-content-center align-items-center">
             <div class="card" style="width: 21rem;">
             <img
-                src="../HTML/dist/img/newyork.png"
+                src="../html/dist/img/newyork.png"
                 class="card-img-top img-fluid"
                 alt="newyork"
             />
@@ -129,7 +129,7 @@
           <div class="col-md-4">
             <div class="card my-3" style="height: 100%">
               <img
-                src="../HTML/dist/img/bolso.png"
+                src="../html/dist/img/bolso.png"
                 class="card-img-top"
                 style="height: 250px"
                 alt="bolso"
@@ -145,7 +145,7 @@
             <!-- Añadido el mb-4 para separar las tarjetas -->
             <div class="card my-3">
               <img
-                src="../HTML/dist/img/galletas.png"
+                src="../html/dist/img/galletas.png"
                 class="card-img-top"
                 style="height: 250px"
                 alt="galletas"
@@ -168,7 +168,7 @@
           <div class="col-md-4 h-100">
             <div class="card h-100 d-flex flex-column my-3">
               <img
-                src="../HTML/dist/img/comida.png"
+                src="../html/dist/img/comida.png"
                 class="card-img-top"
                 style="height: 250px"
                 alt="comida"
@@ -183,7 +183,7 @@
           <div class="col-md-4 h-100">
             <div class="card h-100 d-flex flex-column my-3">
               <img
-                src="../HTML/dist/img/vacaciones.png"
+                src="../html/dist/img/vacaciones.png"
                 class="card-img-top"
                 style="height: 250px"
                 alt="vacaciones"
@@ -213,7 +213,7 @@
           <div class="col-md-4">
             <div class="card my-3" style="height: 100%">
               <img
-                src="../HTML/dist/img/persona.png"
+                src="../html/dist/img/persona.png"
                 class="card-img-top"
                 style="height: 250px"
                 alt="persona"
@@ -229,7 +229,7 @@
             <!-- Añadido el mb-4 para separar las tarjetas -->
             <div class="card my-3">
               <img
-                src="../HTML/dist/img/personad.png"
+                src="../html/dist/img/personad.png"
                 class="card-img-top"
                 style="height: 250px"
                 alt="personad"
@@ -271,12 +271,7 @@
                 </div>
                 <div class="text-center" style="margin-top: 30px">
                   <h5>Pon en práctica lo aprendido</h5>
-                  <a
-                    href="https://forms.gle/tY4ca6YPsiqq5VuT9"
-                    class="btn btn-warning"
-                    style="margin-top: 30px"
-                    >Comenzar</a
-                  >
+                  <div style="width:100%;display:flex;flex-direction:column;gap:8px;min-height:635px;"><iframe src="https://quizizz.com/embed/quiz/65596b6b2ada9a6f4623c579" title="QUESTIONS AND ANSWERS - Quizizz" style="flex:1;" frameBorder="0" allowfullscreen></iframe><a href="https://quizizz.com/admin?source=embedFrame" target="_blank">Explore more at Quizizz.</a></div>
                 </div>
               </div>
             </div>

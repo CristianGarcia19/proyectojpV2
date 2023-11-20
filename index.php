@@ -65,16 +65,8 @@
                 </a>
                 <ul class="dropdown-menu mb-3">
                   <li><a class="dropdown-item" href="../proyectojpV2/views/cursoingles.php">Curso gratis de ingles</a></li>
-                  <li>
-                    <hr class="dropdown-divider" />
-                  </li>
-                  <li><a class="dropdown-item" href="#">Another action</a></li>
-                  <li>
-                    <hr class="dropdown-divider" />
-                  </li>
-                  <li>
-                    <a class="dropdown-item" href="#">Something else here</a>
-                  </li>
+                  
+                  
                 </ul>
               </li>
               <div class="d-flex d-inline justify-content-center">

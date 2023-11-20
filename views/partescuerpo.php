@@ -134,7 +134,7 @@
         </div>
         <div class="text-center" style="margin-top: 30px;">
         <h5>Pon en práctica lo aprendido</h5>
-        <a href="https://forms.gle/De3pvvnV4QXn2n4g8" class="btn btn-primary" style="margin-top: 30px;">Comenzar</a>
+        <div style="width:100%;display:flex;flex-direction:column;gap:8px;min-height:635px;"><iframe src="https://quizizz.com/embed/quiz/65595c0706ef6118aa702f77" title="Body Parts - Quizizz" style="flex:1;" frameBorder="0" allowfullscreen></iframe><a href="https://quizizz.com/admin?source=embedFrame" target="_blank">Explora más en Quizizz.</a></div>
         </div>
         </div>
         </div>

@@ -14,7 +14,7 @@
     >
       <div class="container-fluid">
         <a href="index.php" class="navbar-brand">
-          <img src="../HTML/dist/img/logo.png" alt="logo" class="logo" />
+          <img src="../html/dist/img/logo.png" alt="logo" class="logo" />
         </a>
        <a href="../index.php" class="navbar-brand">Online Academy</a>
         <button
@@ -67,21 +67,19 @@
       </div>
       <div class="col-md-6 text-center">
         <img
-          src="../HTML/dist/img/basico.jpg"
+          src="../html/dist/img/basico.jpg"
           alt="bienvenido"
           class="img-fluid"
         />
       </div>
     </div>
-    <!-- fin de nivel basico -->
 
-    <!-- seccion -->
     <div class=" row mx-auto py-5 px-5" style="background: #2e3132">
-        <h2 class="text-center pb-4 text-white">¿Por donde deseas empezar?</h2>
+        <h2 class="text-center pb-4 text-white">¿Qué vas a aprender en estos cursos?</h2>
         <div class="col-md-4 mb-4">
             <div class="card">
                 <img
-                src="../HTML/dist/img/preguntas.jpg"
+                src="../html/dist/img/preguntas.jpg"
                 class="card-img-top img-fluid"
                 alt="materialDidactico"
                 style="height: 200px"
@@ -89,9 +87,92 @@
                 <div class="card-body">
                     <h5 class="card-title text-center">Questions and Answers</h5>
                     <p class="card-text">
-                        Vas a aprender y mejorar varias habilidades como: Vocabulario,
-                        gramática, comprensión auditiva y desarrollo de habilidades.
+                    <ul>
+                  <li>Aprenderás sobre preguntas abiertas y cerradas.</li>
+                  <li>Gramática y podrás expresarte líbremente.</li>
+                  <li>Analizarás los tipos de preguntas que existen al momento de realizar una conversación.</li>
+                  </ul>
                     </p>
+                    <h5 class="card-title text-center">Hay 3 módulos en este curso</h5>
+                    <ul>
+                  <li>Closed Questions.</li>
+                  <li>Open Questions.</li>
+                  <li>Object Questions.</li>
+                  </ul>
+                  
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+            <div class="card">
+                <img
+                src="../html/dist/img/cuerpo.jpg"
+                class="card-img-top img-fluid"
+                alt="videos"
+                style="height: 200px"
+                />
+                <div class="card-body">
+                <h5 class="card-title text-center">Partes del cuerpo</h5>
+                <p class="card-text">
+                <ul>
+                  <li>Tendrás más facilidad de identificar cada parte del cuerpo.</li>
+                  <li>Aprenderás a comunicar de una mejor manera alguna dolencia física o malestar en alguna parte de tu cuerpo.</li>
+                  <li>Podrás aprender vocabulario y conocerás cada una de las partes de tu cuerpo.</li>
+                  </ul>
+                </p>
+                <h5 class="card-title text-center">Hay un solo módulo en este curso</h5>
+                    <ul>
+                  <li>Body Parts and their translation.</li>
+    
+                  </ul>
+                  
+                </div>
+            </div>
+            </div>
+            <div class="col-md-4 mb-4">
+            <div class="card">
+                <img
+                src="../html/dist/img/familia.png"
+                class="card-img-top img-fluid"
+                alt="cursosfree"
+                style="height: 200px"
+                />
+                <div class="card-body">
+                <h5 class="card-title text-center">Miembros de la familia</h5>
+                <p class="card-text">
+                <ul>
+                  <li>Aprenderás como se dice cada miembro de la familia.</li>
+                  <li>Podrás crear frases y comunicarte sobre cualquier miembro.</li>
+                  <li>Podrás adquirir herramientas para una vida más tranquila, al momento de comunicarte en la segunda lengua.</li>
+                  </ul> 
+                </p>
+                <h5 class="card-title text-center">Hay un solo módulo en este curso</h5>
+                    <ul>
+                  <li>Members of family and their translation.</li>
+    
+                  </ul>
+              
+                </div>
+            </div>
+            </div>
+    </div>
+    <!-- fin de nivel basico -->
+
+
+    <!-- seccion -->
+    <div class=" row mx-auto py-5 px-5" style="background: #2e3132">
+        <h2 class="text-center pb-4 text-white">¿Por donde deseas empezar?</h2>
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <img
+                src="../html/dist/img/preguntas.jpg"
+                class="card-img-top img-fluid"
+                alt="materialDidactico"
+                style="height: 200px"
+                />
+                <div class="card-body">
+                    <h5 class="card-title text-center">Questions and Answers</h5>
+                    
                     <div class="text-center">
                         <a href="pregunta_respu.php" class="btn btn-warning px-5 py-2"
                         >Comenzar</a
@@ -103,18 +184,14 @@
             <div class="col-md-4 mb-4">
             <div class="card">
                 <img
-                src="../HTML/dist/img/cuerpo.jpg"
+                src="../html/dist/img/cuerpo.jpg"
                 class="card-img-top img-fluid"
                 alt="videos"
                 style="height: 200px"
                 />
                 <div class="card-body">
                 <h5 class="card-title text-center">Partes del cuerpo</h5>
-                <p class="card-text">
-                    Aprenderás las partes del cuerpo en inglés, esto te permitirá
-                    comunicarte sobre dolencias o problemas de salud, en caso de estar
-                    en un entorno de habla inglesa.
-                </p>
+              
                 <div class="text-center">
                     <a href="partescuerpo.php" class="btn btn-warning px-5 py-2">Comenzar</a>
                 </div>
@@ -124,7 +201,7 @@
             <div class="col-md-4 mb-4">
             <div class="card">
                 <img
-                src="../HTML/dist/img/familia.png"
+                src="../html/dist/img/familia.png"
                 class="card-img-top img-fluid"
                 alt="cursosfree"
                 style="height: 200px"
@@ -132,10 +209,7 @@
                 <div class="card-body">
                 <h5 class="card-title text-center">Miembros de la familia</h5>
                 <p class="card-text">
-                    Aprenderás las palabras y frases relacionadas con los diferentes
-                miembros de una familia. Estas lecciones son esenciales para
-                adquirir un vocabulario básico en inglés.
-                </p>
+               
                 <div class="text-center">
                     <a href="familia.php" class="btn btn-warning px-5 py-2">Comenzar</a>
                 </div>

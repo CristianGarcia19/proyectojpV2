@@ -20,7 +20,7 @@
     <div class="row justify-content-center align-items-center">
     <div class="col-md-4">
     <div class="card">
-    <img src="../HTML/dist/img/abuelo.png" class="card-img-top" style="height: 250px" alt="abuelo">
+    <img src="../html/dist/img/abuelo.png" class="card-img-top" style="height: 250px" alt="abuelo">
     <div class="card-body">
     <h5 class="card-title">Grandfather</h5>
     <p class="card-text">Abuelo</p>
@@ -30,7 +30,7 @@
             
     <div class="col-md-4">
     <div class="card">
-    <img src="../HTML/dist/img/abuela.png" class="card-img-top" style="height: 250px" alt="abuela">
+    <img src="../html/dist/img/abuela.png" class="card-img-top" style="height: 250px" alt="abuela">
     <div class="card-body">
     <h5 class="card-title">Grandmother</h5>
     <p class="card-text">Abuela</p>
@@ -40,7 +40,7 @@
             
     <div class="col-md-4">
     <div class="card">
-    <img src="../HTML/dist/img/papá.png" class="card-img-top" style="height: 250px" alt="papá">
+    <img src="../html/dist/img/papá.png" class="card-img-top" style="height: 250px" alt="papá">
     <div class="card-body">
     <h5 class="card-title">Father-Husband</h5>
     <p class="card-text">Padre-Esposo</p>
@@ -55,7 +55,7 @@
     <div class="row justify-content-center align-items-center">
     <div class="col-md-4">
     <div class="card">
-    <img src="../HTML/dist/img/mamá.png" class="card-img-top" style="height: 250px" alt="mamá">
+    <img src="../html/dist/img/mamá.png" class="card-img-top" style="height: 250px" alt="mamá">
     <div class="card-body">
     <h5 class="card-title">Mother-Wife</h5>
     <p class="card-text">Mamá-Esposa</p>
@@ -65,7 +65,7 @@
             
     <div class="col-md-4">
     <div class="card">
-    <img src="../HTML/dist/img/hija.png" class="card-img-top" style="height: 250px" alt="hija">
+    <img src="../html/dist/img/hija.png" class="card-img-top" style="height: 250px" alt="hija">
     <div class="card-body">
     <h5 class="card-title">Daughter</h5>
     <p class="card-text">Hija</p>
@@ -75,7 +75,7 @@
             
     <div class="col-md-4">
     <div class="card">
-    <img src="../HTML/dist/img/hijo.png" class="card-img-top" style="height: 250px" alt="hijo">
+    <img src="../html/dist/img/hijo.png" class="card-img-top" style="height: 250px" alt="hijo">
     <div class="card-body">
     <h5 class="card-title">Son</h5>
     <p class="card-text">Hijo</p>
@@ -98,8 +98,8 @@
             <iframe width="560" height="315" src="https://www.youtube.com/embed/tS8q86ODHuc?si=xnZtoCfwQkyCoKwP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </div>
         <div class="text-center" style="margin-top: 30px;">
-        <h5>Pon en práctica lo aprendido</h5>
-        <a href="https://forms.gle/V4vcDJgE5FeNRxx66" class="btn btn-primary" style="margin-top: 30px;">Comenzar</a>
+        <h5>Pon en práctica lo aprendido, en el siguiente cuestionario se hará uso de oraciones, dentro de ellas se resaltarán ciertos miembros de la familia, elige como se dicen estos miembros en inglés.</h5>
+        <div style="width:100%;display:flex;flex-direction:column;gap:8px;min-height:635px;"><iframe src="https://quizizz.com/embed/quiz/65596e6d2ada9a1a9723c824" title="MIEMBROS DE LA FAMILIA - Quizizz" style="flex:1;" frameBorder="0" allowfullscreen></iframe><a href="https://quizizz.com/admin?source=embedFrame" target="_blank">Explore more at Quizizz.</a></div>
         </div>
         </div>
         </div>
